@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<CustomObjectTranslation xmlns="http://soap.sforce.com/2006/04/metadata">
+    <caseValues>
+        <plural>false</plural>
+        <value>CO_3</value>
+    </caseValues>
+    <caseValues>
+        <plural>true</plural>
+        <value>COs_3</value>
+    </caseValues>
+    <fields>
+        <label><!-- CO3_picklist --></label>
+        <name>CO3_picklist__c</name>
+        <picklistValues>
+            <masterLabel>CO3_picklist1</masterLabel>
+            <translation><!-- CO3_picklist1 --></translation>
+        </picklistValues>
+        <picklistValues>
+            <masterLabel>CO3_picklist2</masterLabel>
+            <translation><!-- CO3_picklist2 --></translation>
+        </picklistValues>
+        <picklistValues>
+            <masterLabel>CO3_picklist3</masterLabel>
+            <translation><!-- CO3_picklist3 --></translation>
+        </picklistValues>
+        <picklistValues>
+            <masterLabel>CO3_picklist4</masterLabel>
+            <translation><!-- CO3_picklist4 --></translation>
+        </picklistValues>
+    </fields>
+    <gender>Masculine</gender>
+    <recordTypes>
+        <label><!-- CO3_RT1 --></label>
+        <name>CO3_RT1</name>
+    </recordTypes>
+    <recordTypes>
+        <label><!-- CO3_RT2 --></label>
+        <name>CO3_RT2</name>
+    </recordTypes>
+</CustomObjectTranslation>
