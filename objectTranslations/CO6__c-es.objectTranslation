@@ -8,33 +8,13 @@
         <plural>true</plural>
         <value>CO6</value>
     </caseValues>
-    <fields>
-        <label><!-- PL6_Picklist --></label>
-        <name>PL6_Picklist__c</name>
-        <picklistValues>
-            <masterLabel>a</masterLabel>
-            <translation><!-- a --></translation>
-        </picklistValues>
-        <picklistValues>
-            <masterLabel>b</masterLabel>
-            <translation><!-- b --></translation>
-        </picklistValues>
-        <picklistValues>
-            <masterLabel>c</masterLabel>
-            <translation><!-- c --></translation>
-        </picklistValues>
-        <picklistValues>
-            <masterLabel>d</masterLabel>
-            <translation><!-- d --></translation>
-        </picklistValues>
-    </fields>
     <gender>Masculine</gender>
     <recordTypes>
-        <label><!-- RT6_1 --></label>
+        <label></label>
         <name>RT6_1</name>
     </recordTypes>
     <recordTypes>
-        <label><!-- RT6_2 --></label>
+        <label></label>
         <name>RT6_2</name>
     </recordTypes>
 </CustomObjectTranslation>
