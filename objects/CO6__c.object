@@ -60,40 +60,6 @@
     <enableSearch>false</enableSearch>
     <enableSharing>true</enableSharing>
     <enableStreamingApi>true</enableStreamingApi>
-    <fields>
-        <fullName>PL6_Picklist__c</fullName>
-        <externalId>false</externalId>
-        <label>PL6_Picklist</label>
-        <required>false</required>
-        <trackTrending>false</trackTrending>
-        <type>Picklist</type>
-        <valueSet>
-            <restricted>true</restricted>
-            <valueSetDefinition>
-                <sorted>false</sorted>
-                <value>
-                    <fullName>a</fullName>
-                    <default>false</default>
-                    <label>a</label>
-                </value>
-                <value>
-                    <fullName>b</fullName>
-                    <default>false</default>
-                    <label>b</label>
-                </value>
-                <value>
-                    <fullName>c</fullName>
-                    <default>false</default>
-                    <label>c</label>
-                </value>
-                <value>
-                    <fullName>d</fullName>
-                    <default>false</default>
-                    <label>d</label>
-                </value>
-            </valueSetDefinition>
-        </valueSet>
-    </fields>
     <gender>Masculine</gender>
     <label>CO6</label>
     <nameField>
@@ -101,54 +67,6 @@
         <type>Text</type>
     </nameField>
     <pluralLabel>CO6</pluralLabel>
-    <recordTypes>
-        <fullName>RT6_1</fullName>
-        <active>true</active>
-        <label>RT6_1</label>
-        <picklistValues>
-            <picklist>PL6_Picklist__c</picklist>
-            <values>
-                <fullName>a</fullName>
-                <default>false</default>
-            </values>
-            <values>
-                <fullName>b</fullName>
-                <default>false</default>
-            </values>
-            <values>
-                <fullName>c</fullName>
-                <default>false</default>
-            </values>
-            <values>
-                <fullName>d</fullName>
-                <default>false</default>
-            </values>
-        </picklistValues>
-    </recordTypes>
-    <recordTypes>
-        <fullName>RT6_2</fullName>
-        <active>true</active>
-        <label>RT6_2</label>
-        <picklistValues>
-            <picklist>PL6_Picklist__c</picklist>
-            <values>
-                <fullName>a</fullName>
-                <default>false</default>
-            </values>
-            <values>
-                <fullName>b</fullName>
-                <default>false</default>
-            </values>
-            <values>
-                <fullName>c</fullName>
-                <default>false</default>
-            </values>
-            <values>
-                <fullName>d</fullName>
-                <default>false</default>
-            </values>
-        </picklistValues>
-    </recordTypes>
     <searchLayouts/>
     <sharingModel>ReadWrite</sharingModel>
     <visibility>Public</visibility>
